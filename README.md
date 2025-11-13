@@ -1,6 +1,6 @@
 ## 👋 Hi!
 
-My name is Brendan Shen, and I'm a third-year student at SFU pursuing a joint major degree in Computer Science and Business Administration! I'm also currently a Developer for SFU Surge!
+My name is Brendan Shen, and I'm a fourth-year student at SFU pursuing a joint major degree in Computer Science and Business Administration! I'm also currently a Developer for SFU Surge!
 
 ## 🔥 I am passionate about:
 - 💻 **Frontend and Full-Stack Web Development**: Mainly using React.JS, Next.JS, TailwindCSS, MySQL & PostgreSQL. I love trying out new stacks!
